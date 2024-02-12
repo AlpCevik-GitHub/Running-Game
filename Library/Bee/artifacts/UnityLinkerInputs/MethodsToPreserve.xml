@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BackToMenu">
+			<method name="StartNew"/>
+		</type>
+		<type fullname="MenuUIHandler">
+			<method name="Exit"/>
+			<method name="StartNew"/>
+		</type>
+	</assembly>
+</linker>
